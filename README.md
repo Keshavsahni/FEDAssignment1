@@ -1,2 +1,2 @@
 # FEDAssignment1
-Made calculator using javascript
+Made calculator using html
